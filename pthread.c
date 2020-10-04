@@ -12,7 +12,7 @@ void thread_1(void)
         sleep(1);
 	strcpy(ch, "123");
     }  
-}  
+}  //Good Work
   
 /*线程二*/  
 void thread_2(void)
